@@ -53,7 +53,7 @@ A a(b);
 
 */
 
-
+//add a line
 class Base1 {
 public:
 	Base1();
