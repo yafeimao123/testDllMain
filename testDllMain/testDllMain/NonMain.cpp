@@ -54,6 +54,7 @@ A a(b);
 */
 
 //add a line
+//add another line
 class Base1 {
 public:
 	Base1();
