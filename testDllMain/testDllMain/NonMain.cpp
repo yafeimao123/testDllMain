@@ -52,6 +52,10 @@ A a(b);
 
 
 */
+#include <memory>
+std::shared_ptr<int> 
+
+
 
 //add a line
 //add another line

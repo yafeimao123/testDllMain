@@ -84,7 +84,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="memory.cpp" />
     <ClCompile Include="NonMain.cpp" />
+    <ClCompile Include="testSharePtr.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="NonMain.h" />
